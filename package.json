@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-dev-loader",
+        "scope": null,
+        "escapedName": "gulp-dev-loader",
+        "name": "gulp-dev-loader",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\WF"
+    ]
+  ],
+  "_from": "gulp-dev-loader@latest",
+  "_id": "gulp-dev-loader@1.0.0",
+  "_inCache": true,
+  "_location": "/gulp-dev-loader",
+  "_nodeVersion": "6.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gulp-dev-loader_1.0.0_1526214134203_0.08161303043747847"
+  },
+  "_npmUser": {
+    "name": "natalka",
+    "email": "natalka.npm.dev@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gulp-dev-loader",
+    "scope": null,
+    "escapedName": "gulp-dev-loader",
+    "name": "gulp-dev-loader",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-dev-loader/-/gulp-dev-loader-1.0.0.tgz",
+  "_shasum": "32fbb4b17c5d5c7b2c34d49f052a8ad9de1f3e38",
+  "_shrinkwrap": null,
+  "_spec": "gulp-dev-loader",
+  "_where": "E:\\WF",
+  "author": {
+    "name": "natalka"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "slash": "^1.0.0",
+    "through": "^2.3.8"
+  },
+  "description": "Writes a separate js file which loads all source files from js.",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodeunit": "0.0.5",
+    "run-sequence": "^1.2.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "32fbb4b17c5d5c7b2c34d49f052a8ad9de1f3e38",
+    "tarball": "https://registry.npmjs.org/gulp-dev-loader/-/gulp-dev-loader-1.0.0.tgz",
+    "fileCount": 2,
+    "unpackedSize": 3127,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa+C32CRA9TVsSAnZWagAAXxYP/24FSvqR2eCSDsDreNe9\nkGKgzmwzGWUnpGZP6ts81k/3EPdm2791vCCFCMuOz/B1xu4RZbvhkzpisJwe\nXjeR6llpm+Pb698rMWFY72Q1U6dMhst6hD+Oem0z8MWrV8NWXPOlvw9lqAJS\nDO7H6CwVRTW6qt1xRmq0h+nZSJCVs7kYCLIMuYeqg++EKzrVZXQu3qJ75eSJ\nxdZBB8eKEWQ8+4wUO+cDvZ8kh/UF3mIv2qORG7EeIocUCCfWDGGBqeHPaRh1\ncJ4ydRA1zH/EeUNMtQ6tCY5qPZNSRegxmQ/BY5dDxbqw9B2gF3Scm1R9+tI1\ndcFcJQzSBJb7pVq4xhks40bWoSe7Ui1vhd0+st53Tig/u9MTm7L6VALX+/qD\nZD+iWd26Bntc/HwoX6Av8J8I3LD6p73PdAufSTlQa0ln8VPeW7y8JGOMgzfV\n3D8FWBeRFJtDVrogrBYuh9pLNIBW7xEzAlO212Y2MPzXgYHtE0kUmTJ1NHH9\nt64qY5bQnElyjX95upPD/56IkDnoRxfNF3Qt1OtD+mdbiCW92eVM+1ndtWcN\ncV2nXtt2mE44KjGxjqVStcFrUJVK229fsJFqdr1H7aLKT7VYPP75AuMYwtDV\npgezb0gq6gOwBLVuemQOO2zHAPF85J+oykZ5H/q9VtKMBVg7J3u6gVojLwpN\nHSQw\r\n=45Ah\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "natalka",
+      "email": "natalka.npm.dev@gmail.com"
+    }
+  ],
+  "name": "gulp-dev-loader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.0.0"
+}
